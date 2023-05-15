@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Dancing+Script:wght@400;500;600&family=Instrument+Sans:wght@400;500&family=Jost:wght@100;200;400;500&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    background-position: center;
+}
+
+.banner{
+    padding: 3rem;
+    align-items: center;
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+}
+
+.banner .text{
+    font-weight: 500;
+    color: rgb(176, 174, 174);
+}
+
+.banner h1{
+    font-weight: 450;
+}
+
+.hero{
+    display: flex;
+    padding: 3rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    font-family: 'Jost', sans-serif;
+}
+
+img{
+    width: 23rem;
+    border-radius: 0.55rem;
+}
+
+.hero img{
+    height: 15rem;
+}
+
+h2{
+    font-size: 1.2rem;
+}
